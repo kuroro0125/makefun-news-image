@@ -1,3 +1,9 @@
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/kuroro0125/makefun-news-image/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/kuroro0125/makefun-news-image/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
+Entry for the [make.fun bounty "Sum up 21 November's world news in one image"](https://make.fun/bounty/news-image-20261121).
+
 # Sum up 21 November's world news in one image
 
 Entry for the make.fun bounty `news-image-20261121`.
